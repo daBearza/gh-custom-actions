@@ -6,7 +6,7 @@ inputs:
     required: false
     default: 'true'
 outputs:
-  used-cach:
+  used-cachessss:
     description: "Whether the cache was used."
     value: ${{ steps.install.outputs.cache }}
 runs:
